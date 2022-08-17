@@ -1,0 +1,13 @@
+Incolor 2MM;80;
+Incolor 3MM;120;
+Incolor 4MM;150;
+Incolor 5MM;165;
+Incolor 6MM;185;
+Fumê 3MM;150;
+Fumê Plus 3MM;290;
+Fumê 4MM;170;
+Fumê 5MM;200;
+Fumê 6MM;240;
+Espelho 3MM;180;
+Fantasia 3MM;160;
+
