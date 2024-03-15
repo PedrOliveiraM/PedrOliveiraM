@@ -2,8 +2,6 @@
 
 - 👋 Olá, sou @PedrOliveiraM, um Desenvolvedor Full Stack apaixonado por tecnologia.
 - 👀 Tenho interesse em explorar novas tecnologias e frameworks para aprimorar minhas habilidades.
-- 🌱 Atualmente, estou aprendendo [insira a tecnologia/framework que você está estudando].
-- 💻 Tenho especialização em [mencione sua principal stack ou tecnologias], com experiência no desenvolvimento tanto no front-end quanto no back-end.
-- 💬 Vamos colaborar em projetos interessantes que ultrapassem os limites da tecnologia!
-- 📫 Entre em contato comigo através de [insira seu método de contato preferido].
+- 🌱 Atualmente, estou aprendendo Three.js, React.js e Node.js.
+- 💻 Tenho especialização em C++ e Python com experiência no desenvolvimento back-end.
 
