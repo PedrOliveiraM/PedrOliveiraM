@@ -59,11 +59,12 @@ _<span style="font-size:20px;">Atuei como estagiário na área de tecnologia na 
   - <img src="https://skillicons.dev/icons?i=python,html,bootstrap,jquery" alt="Tecnologias" width="150px" />
 
 - **<span style="font-size:20px;">Impacto:</span>** <span style="font-size:20px;">Consegui desenvolver uma página web para gerar relatórios formatados de acordo com as necessidades. Essa página vai acelerar o processo de escrita e formatação, além de evitar erros de cálculos e informações incorretas, pois está configurada para realizar os cálculos e validação das informações.</span>
-
-## Olhe alguns dos meus projetos aqui abaixo no meu perfil !
-
-## Contato
+  
+### Se tiver alguma dúvida ou precisar de mais informações, entre em 
+## Contato!
 
 [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://instagram.com/pedro.liveiram)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-oliveira-m/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropucmont@gmail.com)
+
+## Confira alguns dos meus projetos abaixo no meu perfil 👇
