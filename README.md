@@ -37,7 +37,7 @@ _<span style="font-size:20px;">Desenvolvi um software desktop para uma vidraçar
 
 - **<span style="font-size:20px;">Tecnologias Utilizadas:</span>** <span style="font-size:20px;"></span>
 
-  - <img src="https://skillicons.dev/icons?i=cpp,qt,sqlite" alt="Tecnologias" width="150" />
+  - <img src="https://skillicons.dev/icons?i=cpp,qt,cmake,sqlite" alt="Tecnologias" width="150" />
 
 - **<span style="font-size:20px;">Impacto:</span>** <span style="font-size:20px;">A solução melhorou a eficiência de gerenciamento de gastos e estoque, além de agilidade em gerar orçamentos para seus clientes</span>
 
