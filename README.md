@@ -1,4 +1,3 @@
-![Alt Text](https://media.licdn.com/dms/image/D4D16AQGQFPxq4yOw0Q/profile-displaybackgroundimage-shrink_350_1400/0/1698113642943?e=1721260800&v=beta&t=fnIpHYu_lrLVg6QoYMuavFqY28UuBPLhwzQrsagD3jk)
 
 <h1 style="text-align: center;">Pedro Oliveira</h1>
 
