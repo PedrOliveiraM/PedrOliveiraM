@@ -1,7 +1,7 @@
 
 <h1 style="text-align: center;">Pedro Oliveira</h1>
 
-## Sobre min
+## Sobre mim
 
 <span style="font-size:20px;">👋 Olá! Seja bem vindo ! Estou em busca de me tornar um Desenvolvedor Full Stack.</span>
 
