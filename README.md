@@ -19,7 +19,7 @@
 ![Tecnologias](https://skillicons.dev/icons?i=cpp,python,docker,nest,spring,prisma,postgresql,mongo,git,postman)
 ## Tecnologias que estou estudando
 
-![Tecnologias](https://skillicons.dev/icons?i=angular,spring,typescript,vite)
+![Tecnologias](https://skillicons.dev/icons?i=angular,spring,vite)
 
 ## Experiências
 
